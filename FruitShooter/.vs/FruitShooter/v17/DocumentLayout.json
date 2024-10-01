@@ -1,0 +1,191 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\abelc\\OneDrive\\Escritorio\\Juego\\FruitShooter\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6078C06F-5384-4AAA-B174-D5DF3C09E9A2}|FruitShooter.vcxproj|C:\\Users\\abelc\\OneDrive\\Escritorio\\Juego\\FruitShooter\\proyectil.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6078C06F-5384-4AAA-B174-D5DF3C09E9A2}|FruitShooter.vcxproj|solutionrelative:proyectil.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6078C06F-5384-4AAA-B174-D5DF3C09E9A2}|FruitShooter.vcxproj|C:\\Users\\abelc\\OneDrive\\Escritorio\\Juego\\FruitShooter\\personaje.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6078C06F-5384-4AAA-B174-D5DF3C09E9A2}|FruitShooter.vcxproj|solutionrelative:personaje.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6078C06F-5384-4AAA-B174-D5DF3C09E9A2}|FruitShooter.vcxproj|C:\\Users\\abelc\\OneDrive\\Escritorio\\Juego\\FruitShooter\\eventos.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6078C06F-5384-4AAA-B174-D5DF3C09E9A2}|FruitShooter.vcxproj|solutionrelative:eventos.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6078C06F-5384-4AAA-B174-D5DF3C09E9A2}|FruitShooter.vcxproj|C:\\Users\\abelc\\OneDrive\\Escritorio\\Juego\\FruitShooter\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6078C06F-5384-4AAA-B174-D5DF3C09E9A2}|FruitShooter.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6078C06F-5384-4AAA-B174-D5DF3C09E9A2}|FruitShooter.vcxproj|C:\\Users\\abelc\\OneDrive\\Escritorio\\Juego\\FruitShooter\\constantes.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6078C06F-5384-4AAA-B174-D5DF3C09E9A2}|FruitShooter.vcxproj|solutionrelative:constantes.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6078C06F-5384-4AAA-B174-D5DF3C09E9A2}|FruitShooter.vcxproj|C:\\Users\\abelc\\OneDrive\\Escritorio\\Juego\\FruitShooter\\nivel.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6078C06F-5384-4AAA-B174-D5DF3C09E9A2}|FruitShooter.vcxproj|solutionrelative:nivel.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6078C06F-5384-4AAA-B174-D5DF3C09E9A2}|FruitShooter.vcxproj|C:\\Users\\abelc\\OneDrive\\Escritorio\\Juego\\FruitShooter\\enemigos.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6078C06F-5384-4AAA-B174-D5DF3C09E9A2}|FruitShooter.vcxproj|solutionrelative:enemigos.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6078C06F-5384-4AAA-B174-D5DF3C09E9A2}|FruitShooter.vcxproj|C:\\Users\\abelc\\OneDrive\\Escritorio\\Juego\\FruitShooter\\frutas.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6078C06F-5384-4AAA-B174-D5DF3C09E9A2}|FruitShooter.vcxproj|solutionrelative:frutas.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6078C06F-5384-4AAA-B174-D5DF3C09E9A2}|FruitShooter.vcxproj|C:\\Users\\abelc\\OneDrive\\Escritorio\\Juego\\FruitShooter\\personaje.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6078C06F-5384-4AAA-B174-D5DF3C09E9A2}|FruitShooter.vcxproj|solutionrelative:personaje.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6078C06F-5384-4AAA-B174-D5DF3C09E9A2}|FruitShooter.vcxproj|C:\\Users\\abelc\\OneDrive\\Escritorio\\Juego\\FruitShooter\\bala.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6078C06F-5384-4AAA-B174-D5DF3C09E9A2}|FruitShooter.vcxproj|solutionrelative:bala.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\abelc\\OneDrive\\Escritorio\\Juego\\FruitShooter\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "C:\\Users\\abelc\\OneDrive\\Escritorio\\Juego\\FruitShooter\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AQIAAHgBAAAAAAAAAAAAAFkAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-21T06:04:47.337Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "proyectil.cpp",
+              "DocumentMoniker": "C:\\Users\\abelc\\OneDrive\\Escritorio\\Juego\\FruitShooter\\proyectil.cpp",
+              "RelativeDocumentMoniker": "proyectil.cpp",
+              "ToolTip": "C:\\Users\\abelc\\OneDrive\\Escritorio\\Juego\\FruitShooter\\proyectil.cpp*",
+              "RelativeToolTip": "proyectil.cpp*",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAADQAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-13T07:21:46.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "eventos.cpp",
+              "DocumentMoniker": "C:\\Users\\abelc\\OneDrive\\Escritorio\\Juego\\FruitShooter\\eventos.cpp",
+              "RelativeDocumentMoniker": "eventos.cpp",
+              "ToolTip": "C:\\Users\\abelc\\OneDrive\\Escritorio\\Juego\\FruitShooter\\eventos.cpp",
+              "RelativeToolTip": "eventos.cpp",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-13T07:20:37.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "personaje.cpp",
+              "DocumentMoniker": "C:\\Users\\abelc\\OneDrive\\Escritorio\\Juego\\FruitShooter\\personaje.cpp",
+              "RelativeDocumentMoniker": "personaje.cpp",
+              "ToolTip": "C:\\Users\\abelc\\OneDrive\\Escritorio\\Juego\\FruitShooter\\personaje.cpp",
+              "RelativeToolTip": "personaje.cpp",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-13T07:20:33.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "nivel.cpp",
+              "DocumentMoniker": "C:\\Users\\abelc\\OneDrive\\Escritorio\\Juego\\FruitShooter\\nivel.cpp",
+              "RelativeDocumentMoniker": "nivel.cpp",
+              "ToolTip": "C:\\Users\\abelc\\OneDrive\\Escritorio\\Juego\\FruitShooter\\nivel.cpp",
+              "RelativeToolTip": "nivel.cpp",
+              "ViewState": "AQIAAEkAAAAAAAAAAAAAAEkAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-13T07:18:15.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "constantes.h",
+              "DocumentMoniker": "C:\\Users\\abelc\\OneDrive\\Escritorio\\Juego\\FruitShooter\\constantes.h",
+              "RelativeDocumentMoniker": "constantes.h",
+              "ToolTip": "C:\\Users\\abelc\\OneDrive\\Escritorio\\Juego\\FruitShooter\\constantes.h*",
+              "RelativeToolTip": "constantes.h*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-13T07:17:26.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "bala.h",
+              "DocumentMoniker": "C:\\Users\\abelc\\OneDrive\\Escritorio\\Juego\\FruitShooter\\bala.h",
+              "RelativeDocumentMoniker": "bala.h",
+              "ToolTip": "C:\\Users\\abelc\\OneDrive\\Escritorio\\Juego\\FruitShooter\\bala.h",
+              "RelativeToolTip": "bala.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-13T07:13:42.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "personaje.h",
+              "DocumentMoniker": "C:\\Users\\abelc\\OneDrive\\Escritorio\\Juego\\FruitShooter\\personaje.h",
+              "RelativeDocumentMoniker": "personaje.h",
+              "ToolTip": "C:\\Users\\abelc\\OneDrive\\Escritorio\\Juego\\FruitShooter\\personaje.h",
+              "RelativeToolTip": "personaje.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-13T07:15:13.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frutas.h",
+              "DocumentMoniker": "C:\\Users\\abelc\\OneDrive\\Escritorio\\Juego\\FruitShooter\\frutas.h",
+              "RelativeDocumentMoniker": "frutas.h",
+              "ToolTip": "C:\\Users\\abelc\\OneDrive\\Escritorio\\Juego\\FruitShooter\\frutas.h",
+              "RelativeToolTip": "frutas.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-13T07:15:12.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "enemigos.h",
+              "DocumentMoniker": "C:\\Users\\abelc\\OneDrive\\Escritorio\\Juego\\FruitShooter\\enemigos.h",
+              "RelativeDocumentMoniker": "enemigos.h",
+              "ToolTip": "C:\\Users\\abelc\\OneDrive\\Escritorio\\Juego\\FruitShooter\\enemigos.h",
+              "RelativeToolTip": "enemigos.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-13T07:15:10.977Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
